@@ -93,7 +93,8 @@ This is an older project where I practiced not only my HTML and CSS skills, but 
 
 The interactive parts of site are done with bits and pieces of jQuery code here and there.  
 
-Overall this project should not be considered as an example of my current skills, I have included it in this list purely for displaying my path to web dev world.
+Overall this project should not be considered as an example of my current skills, I have included it in this list purely for displaying my path to web dev world.  
+Follow [this link](https://github.com/mnemosx/figma-foundation/tree/toReview) to see more recent example of HTML&CSS usage.
 
 <a class="btn" href="https://github.com/mnemosx/mezazi" >Code</a>
 <a class="btn" href="https://mnemosx.github.io/mezazi/" >Live view</a>
