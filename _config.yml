@@ -1,11 +1,11 @@
-title: Andis Kačerovskis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Andis Kačerovskis # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Frontend Developer</b> hungry to make an impact in the software development world. Experience with modern HTML, CSS, JavaScript, Typescript, React, Angular, Node, GraphQL. I also know a thing or two about testing (unit tests, TDD) and version control (git).
   <br><br>
-  Studying Software Engineering @<a https://www.augstskola.lv/">Ekonomikas un kultūras augstskola</a>
+  Studying Software Engineering @<a href="https://www.augstskola.lv/">Ekonomikas un kultūras augstskola</a>
   <br><br>
-  Soon to graduate <a https://www.codelex.io/">CODELEX bootcamp</a>
+  Soon to graduate <a href="https://www.codelex.io/">CODELEX bootcamp</a>
   <br><br>
   <a href="https://www.linkedin.com/in/andis-kacerovskis/">View My LinkedIn Profile</a> 
   
