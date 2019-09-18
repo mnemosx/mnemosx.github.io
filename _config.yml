@@ -1,5 +1,5 @@
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-title: Andis Kačerovskis # your name (or website title) here
+title: <h1 style="text-align: center;">Andis Kačerovskis</h1> # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   <b>Frontend Developer</b> hungry to make an impact in the software development world. Experience with modern HTML, CSS, JavaScript, Typescript, React, Angular, Node, GraphQL. I also know a thing or two about testing (unit tests, TDD) and version control (git).
