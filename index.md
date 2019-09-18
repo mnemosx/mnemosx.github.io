@@ -1,11 +1,11 @@
 <style>
 .btn {
-	background-color:#ffffff;
-	border-radius:6px;
-	border:1px solid #dcdcdc;
+  background-color:#ffffff;
+  border-radius:6px;
+  border:1px solid #dcdcdc;
   color: #666666;
-	padding:6px 24px;
-	text-decoration:none;
+  padding:6px 24px;
+  text-decoration:none;
 }
 .btn:hover {
   background-color:#f6f6f6;
@@ -15,40 +15,62 @@
 
 # Portfolio
 
-## [Rick and Morty Info Site](/rick-and-morty)
+## [Rick and Morty Info Site](https://github.com/mnemosx/rick-and-morty-api-with-graphQL)
+
+A site that pulls data from Rick and Morty GraphQL API and displays various information about episodes and characters.  
+
+Tech used: React, Typescript, GraphQL.  
+
+<a class="btn" href="https://github.com/mnemosx/rick-and-morty-api-with-graphQL" >Code</a>
+<a class="btn" href="https://graphql-with-rick-and-morty.netlify.com/" >Live view</a>
 
 <img src="images/rickandmorty.png?raw=true"/>
+
 ---
 
-## [Shopping Cart](/shopping-cart)
+## [Shopping Cart](https://github.com/mnemosx/react-shopping-cart)
+
+A part of e-commerce site, that joins UI of shopping cart to Node.js server (which lives on [this](https://github.com/mnemosx/react-shopping-cart) repo).  
+
+Tech used: React, Typescript, Material UI, Node.js, Express.js.  
+
+<a class="btn" href="https://github.com/mnemosx/react-shopping-cart" >Code</a>
+<a class="btn" href="https://github.com/mnemosx/shopping-cart-backend" >Server Code</a>
+<a class="btn" href="https://dumbsheetshop.netlify.com/" >Live view</a>
 
 <img src="images/shop.png?raw=true"/>
+
 ---
 
 ## [Hungry Hippo Game](https://github.com/mnemosx/hungry-hippo)
 
-Perhaps the very first React project of mine. A classic snake game with basic features.  
+A classic snake game with basic features.  
+
 Tech used: React, Typescript.  
 
 <a class="btn" href="https://github.com/mnemosx/hungry-hippo" >Code</a>
 <a class="btn" href="https://hungry-hippo-react.herokuapp.com" >Live view</a>
 
 <img src="images/hungryhippo.png?raw=true"/>
+
 ---
 
 ## [Test Driven Tic Tac Toe](https://github.com/mnemosx/react-tictactoe)
 
 Yes, yet another tic tac toe game. Built solely for practicing test driven development methodology.  
+
 Tech used: React, Jest, Typescript.  
+
 Key feature — game engine has been completely separated from UI, thus making it independent of UI framework. Oh, and it's responsive too!  
 
 <a class="btn" href="https://github.com/mnemosx/react-tictactoe" >Code</a>
 <a class="btn" href="https://totallynotjustanothertictactoe.netlify.com/" >Live view</a>
 
 <img src="images/ttt.png?raw=true"/>
+
 ---
 
-## [Mežāzi](/mezazi)
+## [Mežāzi](https://github.com/mnemosx/mezazi)
 
 This is an older project where I practiced not only my HTML and CSS skills, but my design skills as well. The site was never finished and never launched due to some difficulties launching the business itself.  
 
