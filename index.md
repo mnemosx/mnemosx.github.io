@@ -1,3 +1,18 @@
+<style>
+.btn {
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+  color: #666666;
+	padding:6px 24px;
+	text-decoration:none;
+}
+.btn:hover {
+  background-color:#f6f6f6;
+  text-decoration:none;
+}
+</style>
+
 # Portfolio
 
 ## [Rick and Morty Info Site](/rick-and-morty)
@@ -15,6 +30,9 @@
 Perhaps the very first React project of mine. A classic snake game with basic features.  
 Tech used: React, Typescript.  
 
+<a class="btn" href="https://github.com/mnemosx/hungry-hippo" >Code</a>
+<a class="btn" href="https://hungry-hippo-react.herokuapp.com" >Live view</a>
+
 <img src="images/hungryhippo.png?raw=true"/>
 ---
 
@@ -22,7 +40,10 @@ Tech used: React, Typescript.
 
 Yes, yet another tic tac toe game. Built solely for practicing test driven development methodology.  
 Tech used: React, Jest, Typescript.  
-Key feature — game engine has been completely separated from UI, thus making it independent of UI framework.  
+Key feature — game engine has been completely separated from UI, thus making it independent of UI framework. Oh, and it's responsive too!  
+
+<a class="btn" href="https://github.com/mnemosx/react-tictactoe" >Code</a>
+<a class="btn" href="https://totallynotjustanothertictactoe.netlify.com/" >Live view</a>
 
 <img src="images/ttt.png?raw=true"/>
 ---
@@ -35,17 +56,7 @@ The interactive parts of site are done with bits and pieces of jQuery code here 
 
 Overall this project should not be considered as an example of my current skills, I have included it in this list purely for displaying my path to web dev world.
 
-<button name="button" onclick="https://github.com/mnemosx/mezazi" style="background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
-	background-color:#ffffff;
-	border-radius:6px;
-	border:1px solid #dcdcdc;
-	padding:6px 24px;
-	text-decoration:none;">Code</button>
-<button name="button" onclick="https://mnemosx.github.io/mezazi/" style="background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
-	background-color:#ffffff;
-	border-radius:6px;
-	border:1px solid #dcdcdc;
-	padding:6px 24px;
-	text-decoration:none;">Live view</button>
+<a class="btn" href="https://github.com/mnemosx/mezazi" >Code</a>
+<a class="btn" href="https://mnemosx.github.io/mezazi/" >Live view</a>
 
 <img src="images/mezazi.gif?raw=true"/>
