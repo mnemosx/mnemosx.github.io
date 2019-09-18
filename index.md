@@ -11,9 +11,18 @@
   background-color:#f6f6f6;
   text-decoration:none;
 }
+.img-link img {
+  opacity: .7;
+  transition: .3s ease-in;
+}
+.img-link:hover img {
+  opacity: 1;
+}
 </style>
 
 # Portfolio
+
+---
 
 ## [Rick and Morty Info Site](https://github.com/mnemosx/rick-and-morty-api-with-graphQL)
 
@@ -24,7 +33,9 @@ Tech used: React, Typescript, GraphQL.
 <a class="btn" href="https://github.com/mnemosx/rick-and-morty-api-with-graphQL" >Code</a>
 <a class="btn" href="https://graphql-with-rick-and-morty.netlify.com/" >Live view</a>
 
-<img src="images/rickandmorty.png?raw=true"/>
+<a class="img-link" href="https://graphql-with-rick-and-morty.netlify.com/">
+  <img src="images/rickandmorty.png?raw=true"/>
+</a>
 
 ---
 
@@ -38,7 +49,9 @@ Tech used: React, Typescript, Material UI, Node.js, Express.js.
 <a class="btn" href="https://github.com/mnemosx/shopping-cart-backend" >Server Code</a>
 <a class="btn" href="https://dumbsheetshop.netlify.com/" >Live view</a>
 
-<img src="images/shop.png?raw=true"/>
+<a class="img-link" href="https://dumbsheetshop.netlify.com/" >
+  <img src="images/shop.png?raw=true"/>
+</a>
 
 ---
 
@@ -51,7 +64,9 @@ Tech used: React, Typescript.
 <a class="btn" href="https://github.com/mnemosx/hungry-hippo" >Code</a>
 <a class="btn" href="https://hungry-hippo-react.herokuapp.com" >Live view</a>
 
-<img src="images/hungryhippo.png?raw=true"/>
+<a class="img-link" href="https://dumbsheetshop.netlify.com/" >
+  <img src="images/hungryhippo.png?raw=true"/>
+</a>
 
 ---
 
@@ -66,7 +81,9 @@ Key feature — game engine has been completely separated from UI, thus making i
 <a class="btn" href="https://github.com/mnemosx/react-tictactoe" >Code</a>
 <a class="btn" href="https://totallynotjustanothertictactoe.netlify.com/" >Live view</a>
 
-<img src="images/ttt.png?raw=true"/>
+<a class="img-link" href="https://totallynotjustanothertictactoe.netlify.com/" >
+  <img src="images/ttt.png?raw=true"/>
+</a>
 
 ---
 
@@ -81,4 +98,6 @@ Overall this project should not be considered as an example of my current skills
 <a class="btn" href="https://github.com/mnemosx/mezazi" >Code</a>
 <a class="btn" href="https://mnemosx.github.io/mezazi/" >Live view</a>
 
-<img src="images/mezazi.gif?raw=true"/>
+<a class="img-link" href="https://mnemosx.github.io/mezazi/" >
+  <img src="images/mezazi.gif?raw=true"/>
+</a>
