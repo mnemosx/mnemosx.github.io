@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Andis Kačerovskis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Frontend Developer hungry to make an impact in the software development world. Experience with modern HTML, CSS, JavaScript, Typescript, React, Angular, Node, GraphQL. I also know a thing or two about testing (unit tests, TDD) and version control (git).
   <br><br>
-  Second description 
+  Studying Software Engineering @<a https://www.augstskola.lv/">Ekonomikas un kultūras augstskola</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Soon to graduate <a https://www.codelex.io/">CODELEX bootcamp</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/andis-kacerovskis/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-148234227-1 # your Google Analytics tracking ID here
