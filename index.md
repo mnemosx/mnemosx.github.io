@@ -87,7 +87,7 @@ Key feature — game engine has been completely separated from UI, thus making i
 
 ---
 
-## [Mežāzi](https://github.com/mnemosx/mezazi)
+## [Custom site for a local business](https://github.com/mnemosx/mezazi)
 
 This is an older project where I practiced not only my HTML and CSS skills, but my design skills as well. The site was never finished and never launched due to some difficulties launching the business itself.  
 
